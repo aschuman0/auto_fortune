@@ -14,7 +14,7 @@ import random
 import json
 
 # method for getting twitter api obj setup that returns obj?
-def  create_api_from_file_from_file(path):
+def  create_api_from_file(path):
 	f = open(path, "r")
 	auth_keys = json.load(f)
 
