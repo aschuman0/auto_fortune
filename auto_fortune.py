@@ -41,5 +41,5 @@ while True:
 	fortune = make_fortune('words.json')
 	print fortune
 	# post post post
-	# api.update_status(status=fortune)
+	api.update_status(status=fortune)
 	time.sleep(3)
