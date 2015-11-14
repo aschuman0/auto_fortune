@@ -1,0 +1,73 @@
+{
+  "noun_singular": [
+    "you",
+    "it",
+    "she",
+    "he",
+    "a cat",
+    "a dog",
+    "a friend",
+    "your worst enemy",
+    "a sloth",
+    "a wrathful spirit"
+  ],
+  "noun_collective": [
+    "they",
+    "cats",
+    "dogs",
+    "people",
+    "enemies",
+    "friends",
+    "sloths",
+    "ghosts",
+    "spirits"
+  ],
+  "place": [
+    "home",
+    "church",
+    "school",
+    "the office",
+    "your home",
+    "the shrine",
+    "a building",
+    "a train"
+  ],
+  "verb": [
+    "run",
+    "haunt",
+    "roll",
+    "walk",
+    "cry",
+    "need",
+    "stalk",
+    "swim",
+    "crow",
+    "yell",
+    "scream",
+    "boo",
+    "cast spells",
+    "have fun",
+    "fall asleep"
+  ],
+  "adjective": [
+    "terribly",
+    "wonderfully",
+    "grossly",
+    "nicely",
+    "painfully",
+    "beautifully",
+    "adequately",
+    "greatly",
+    "softly",
+    "mournfully"
+  ],
+  "command": [
+    "must",
+    "must not",
+    "will",
+    "can't",
+    "can",
+    "should",
+    "should not"
+  ]
+}
