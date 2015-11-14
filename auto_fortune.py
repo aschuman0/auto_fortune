@@ -35,6 +35,8 @@ def make_fortune(path):
 	# pre_text = '%s %s %s.' % (random.choice(), random.choice(does), random.choice(action))
 	return ' '.join(word[0].upper() + word[1:] for word in pre_text.split())
 
+api =  create_api_from_file('auth.json')
+
 while True:
 	fortune = make_fortune('words.json')
 	print fortune
